@@ -1,0 +1,15 @@
+{
+"tasks": [{
+"AccountName": "testaccount",
+"AccountKey": "0de5edbc-6a02-4450-a139-33d4e760a257",
+"ContainerName": "1234",
+"RootPath": "/",
+"DaysOfHistoryToKeep": 10
+}, {
+"AccountName": "test2",
+"AccountKey": "f15c414b-734a-4a4e-b1a6-eb0794df4e46",
+"ContainerName": "2345",
+"RootPath": "/",
+"DaysOfHistoryToKeep": 15
+}]
+}

@@ -1,0 +1,10 @@
+c:\users\damith.wanninayake\documents\visual studio 2013\Projects\JsonEditor\JsonEditor\bin\Debug\JsonEditor.exe.config
+c:\users\damith.wanninayake\documents\visual studio 2013\Projects\JsonEditor\JsonEditor\bin\Debug\JsonEditor.exe
+c:\users\damith.wanninayake\documents\visual studio 2013\Projects\JsonEditor\JsonEditor\bin\Debug\JsonEditor.pdb
+c:\users\damith.wanninayake\documents\visual studio 2013\Projects\JsonEditor\JsonEditor\obj\Debug\JsonEditor.Form1.resources
+c:\users\damith.wanninayake\documents\visual studio 2013\Projects\JsonEditor\JsonEditor\obj\Debug\JsonEditor.Properties.Resources.resources
+c:\users\damith.wanninayake\documents\visual studio 2013\Projects\JsonEditor\JsonEditor\obj\Debug\JsonEditor.csproj.GenerateResource.Cache
+c:\users\damith.wanninayake\documents\visual studio 2013\Projects\JsonEditor\JsonEditor\obj\Debug\JsonEditor.exe
+c:\users\damith.wanninayake\documents\visual studio 2013\Projects\JsonEditor\JsonEditor\obj\Debug\JsonEditor.pdb
+c:\users\damith.wanninayake\documents\visual studio 2013\Projects\JsonEditor\JsonEditor\bin\Debug\Newtonsoft.Json.dll
+c:\users\damith.wanninayake\documents\visual studio 2013\Projects\JsonEditor\JsonEditor\bin\Debug\Newtonsoft.Json.xml
