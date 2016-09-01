@@ -53,7 +53,7 @@ namespace JsonEditor
 
             if (saveFileDialog1.ShowDialog() == DialogResult.OK)
             {
-                File.WriteAllText(saveFileDialog1.FileName, JsonConvert.SerializeObject(tasks));
+                File.WriteAllText(saveFileDialog1.FileName, JsonConvert.SerializeObject(tasks, Formatting.Indented));
             }
 
         }

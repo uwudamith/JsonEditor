@@ -8,3 +8,14 @@ c:\users\damith.wanninayake\documents\visual studio 2013\Projects\JsonEditor\Jso
 c:\users\damith.wanninayake\documents\visual studio 2013\Projects\JsonEditor\JsonEditor\obj\Debug\JsonEditor.pdb
 c:\users\damith.wanninayake\documents\visual studio 2013\Projects\JsonEditor\JsonEditor\bin\Debug\Newtonsoft.Json.dll
 c:\users\damith.wanninayake\documents\visual studio 2013\Projects\JsonEditor\JsonEditor\bin\Debug\Newtonsoft.Json.xml
+D:\upwork\Json Editor\JsonEditor\JsonEditor\bin\Debug\JsonEditor.exe.config
+D:\upwork\Json Editor\JsonEditor\JsonEditor\obj\Debug\JsonEditor.exe
+D:\upwork\Json Editor\JsonEditor\JsonEditor\obj\Debug\JsonEditor.pdb
+D:\upwork\Json Editor\JsonEditor\JsonEditor\bin\Debug\JsonEditor.exe
+D:\upwork\Json Editor\JsonEditor\JsonEditor\bin\Debug\JsonEditor.pdb
+D:\upwork\Json Editor\JsonEditor\JsonEditor\bin\Debug\Newtonsoft.Json.dll
+D:\upwork\Json Editor\JsonEditor\JsonEditor\bin\Debug\Newtonsoft.Json.xml
+D:\upwork\Json Editor\JsonEditor\JsonEditor\obj\Debug\JsonEditor.csprojResolveAssemblyReference.cache
+D:\upwork\Json Editor\JsonEditor\JsonEditor\obj\Debug\JsonEditor.Form1.resources
+D:\upwork\Json Editor\JsonEditor\JsonEditor\obj\Debug\JsonEditor.Properties.Resources.resources
+D:\upwork\Json Editor\JsonEditor\JsonEditor\obj\Debug\JsonEditor.csproj.GenerateResource.Cache
